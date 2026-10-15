@@ -114,6 +114,7 @@
 - [CodeBendKit/codeseek](https://github.com/CodeBendKit/codeseek) — Rust code-intelligence CLI that builds call graphs and semantic search for coding agents.
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — Lets Codex research documentation through NotebookLM.
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — Uses ChatGPT Developer Mode as a local coding agent for your repo over MCP.
+- [DC Hub](https://github.com/azmartone67/dchub-mcp-server) — Remote MCP (https://dchub.cloud/mcp, 94 tools) for data-center site selection; its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power across 300+ markets.
 
 ## Hooks & Automation
 

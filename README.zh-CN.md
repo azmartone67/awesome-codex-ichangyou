@@ -114,6 +114,7 @@
 - [CodeBendKit/codeseek](https://github.com/CodeBendKit/codeseek) — Rust 写的代码情报 CLI，为 agent 构建调用图和语义检索。
 - [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) — 让 Codex 通过 NotebookLM 查文档。
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) — 通过 MCP 把 ChatGPT Developer Mode 当作本地编码 agent 使用。
+- [DC Hub](https://github.com/azmartone67/dchub-mcp-server) — 远程 MCP（https://dchub.cloud/mcp，94 个工具）：数据中心选址实时数据层；其 Data Center Power Index（DCPI）按日评估 300+ 市场的电网供电可得性。
 
 ## Hooks 与自动化
 
